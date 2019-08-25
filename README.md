@@ -61,7 +61,7 @@ $ python3 spotify_top_200.py
 
 ## Dependencies
 
-* Spotipy - lightweight Python library for the Spotify Web API
+* Spotipy - Lightweight Python library for the Spotify Web API
 * BeautifulSoup - Scrapping library
 * Requests - Python HTTP client interface library
 
